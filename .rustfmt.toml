@@ -1,0 +1,4 @@
+# https://github.com/denoland/deno/blob/main/.rustfmt.toml
+max_width = 80
+tab_spaces = 2
+edition = "2021"

@@ -1,0 +1,9 @@
+{
+  "[rust]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file"
+  },
+  "editor.inlayHints.enabled": "offUnlessPressed",
+}

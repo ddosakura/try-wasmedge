@@ -1,0 +1,12 @@
+{
+  "name": "sozu",
+  "image": "ddosakura/hakke:1.2.0-wasm",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+        "editor.fontLigatures": true
+      }
+    }
+  }
+}
