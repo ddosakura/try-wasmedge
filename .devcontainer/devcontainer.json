@@ -1,5 +1,5 @@
 {
-  "name": "sozu",
+  "name": "try-wasmedge",
   "image": "ddosakura/hakke:1.2.0-wasm",
   "customizations": {
     "vscode": {
