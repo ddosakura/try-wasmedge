@@ -17,3 +17,9 @@
 #[tokio::main(flavor = "current_thread")]
 async fn main() {}
 ```
+
+- [docker 添加 crun 支持](https://github.com/containers/crun/issues/45)
+- [crun 的 wasmedge 支持](https://wasmedge.org/book/en/use_cases/kubernetes/container/crun.html)
+- [wasmedge 版 crun 无法静态构建](https://github.com/containers/crun/issues/922)
+- [基于 wasmedge/slim-runtime 镜像运行](https://wasmedge.org/book/en/use_cases/kubernetes/docker/lxc.html)
+  - https://github.com/second-state/wasmedge-quickjs
